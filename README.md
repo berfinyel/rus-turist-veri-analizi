@@ -2,7 +2,7 @@
 
 Bu çalışma, Türkiye turizm sektöründe kritik bir yere sahip olan Rus turist verilerinin geçmişe dönük analizini ve gelecek dönemlere yönelik istatistiksel modelleme çalışmalarını içermektedir.
 
-> **🔒 Veri ve Sonuç Gizliliği:** Bu proje kapsamında gerçekleştirilen gelecek dönem öngörüleri ve model tahmin sonuçları, çalışma stratejisi gereği paylaşılmamıştır. Aşağıda yalnızca analizin metodolojik çerçevesi ve görsel analizler yer almaktadır.
+> **🔒 Veri ve Sonuç Gizliliği:** Bu proje kapsamında gerçekleştirilen gelecek dönem öngörüleri ve model tahmin sonuçları, çalışma stratejisi gereği paylaşılmamıştır. Aşağıda yalnızca analizin metodolojik çerçevesi yer almaktadır.
 
 ## Projenin Amacı
 Turizm sektöründeki dalgalanmaları anlamak, Rus turistlerin Türkiye pazarındaki eğilimlerini belirlemek ve geleceğe yönelik öngörülerde bulunmak.
