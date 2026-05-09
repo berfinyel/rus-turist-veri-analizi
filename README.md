@@ -1,4 +1,4 @@
-Türkiye'ye Gelen Rus Turistlerin Veri Analizi ve Zaman Serisi Öngörüsü
+# Türkiye'ye Gelen Rus Turistlerin Veri Analizi ve Zaman Serisi Öngörüsü
 
 Bu çalışma, Türkiye turizm sektöründe kritik bir yere sahip olan Rus turist verilerinin geçmişe dönük analizini ve gelecek dönemlere yönelik istatistiksel modelleme çalışmalarını içermektedir.
 
